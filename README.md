@@ -26,6 +26,9 @@ Hey friends, if you're working with Azure or just starting to learn about it, yo
 
 📌 [Build applications with Azure](https://azure.microsoft.com/resources/developers/?WT.mc_id=DT-MVP-5001664)
 
+📌 [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/?WT.mc_id=DT-MVP-5001664)
+
+
 ## 🏅𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
 
 📌 [Microsoft Azure training and certifications](https://lnkd.in/gffVnjCX)

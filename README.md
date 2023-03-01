@@ -83,6 +83,10 @@ Hey friends, if you're working with Azure or just starting to learn about it, yo
 - 🥷 Become a Microsoft Purview eDiscovery Ninja: https://lnkd.in/deFVZ9mk
 - 🥷 Microsoft Purview Compliance Manager (MSPCM) Ninja Training: Q1 2023 https://lnkd.in/d6GMW2sy
 
+
+## 🏆 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐥𝐨𝐮𝐝 𝐒𝐤𝐢𝐥𝐥𝐬 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 - 𝐁𝐞𝐜𝐨𝐦𝐞 𝐚 𝐜𝐥𝐨𝐮𝐝 𝐌𝐕𝐏! 
+📌 [Jiadong Chen's Azure Security Challenge! Become a cloud MVP!](https://learn.microsoft.com/en-au/training/challenges?id=d57442ce-27bf-4bb6-a689-f95c6abdf0e7&WT.mc_id=DT-MVP-5001664)
+
 ## 💰 𝐀𝐳𝐮𝐫𝐞 𝐟𝐫𝐞𝐞 𝐚𝐜𝐜𝐨𝐮𝐧𝐭
 
 https://azure.microsoft.com/free/?WT.mc_id=DT-MVP-5001664

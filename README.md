@@ -1,11 +1,16 @@
 # Awesome Azure Skilling [![Awesome](https://awesome.re/badge.svg)](https://github.com/MarketingPipeline/Awesome-Repo-Template/)
 
-<a href="https://github.com/MarketingPipeline/Awesome-Repo-Template/">
+<a href="https://github.com/chenjd/Awesome-Azure-Skilling/">
 <img height=350 alt="Awesome-Azure-Skilling" src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=300&section=header&text=Awesome-Azure-Skilling&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60&descAlign=50"></img></a>
 
 Hey friends, if you're working with Azure or just starting to learn about it, you might be interested to know that there are plenty of free resources available online from Microsoft to help you on your journey!
 
+## 🏆 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐥𝐨𝐮𝐝 𝐒𝐤𝐢𝐥𝐥𝐬 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 - 𝐁𝐞𝐜𝐨𝐦𝐞 𝐚 𝐜𝐥𝐨𝐮𝐝 𝐌𝐕𝐏! 
+📌 [Jiadong Chen's Azure Security Challenge! Become a cloud MVP!](https://learn.microsoft.com/en-au/training/challenges?id=d57442ce-27bf-4bb6-a689-f95c6abdf0e7&WT.mc_id=DT-MVP-5001664)
+
 ## 📚 𝐅𝐫𝐞𝐞 𝐞𝐁𝐨𝐨𝐤𝐬
+📌 [Cloud native infrastructure with Microsoft Azure](https://azure.microsoft.com/en-gb/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=DT-MVP-5001664)
+
 📌 [Azure Serverless Computing Cookbook, Third Edition](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook/?WT.mc_id=DT-MVP-5001664)
 
 📌 [Manage your network more effectively with the Azure Networking Cookbook](https://azure.microsoft.com/resources/azure-networking-cookbook/?WT.mc_id=DT-MVP-5001664)
@@ -82,10 +87,6 @@ Hey friends, if you're working with Azure or just starting to learn about it, yo
 - 🥷 The Microsoft Purview Data Loss Prevention Ninja Training https://lnkd.in/dRiSn8nk
 - 🥷 Become a Microsoft Purview eDiscovery Ninja: https://lnkd.in/deFVZ9mk
 - 🥷 Microsoft Purview Compliance Manager (MSPCM) Ninja Training: Q1 2023 https://lnkd.in/d6GMW2sy
-
-
-## 🏆 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐥𝐨𝐮𝐝 𝐒𝐤𝐢𝐥𝐥𝐬 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 - 𝐁𝐞𝐜𝐨𝐦𝐞 𝐚 𝐜𝐥𝐨𝐮𝐝 𝐌𝐕𝐏! 
-📌 [Jiadong Chen's Azure Security Challenge! Become a cloud MVP!](https://learn.microsoft.com/en-au/training/challenges?id=d57442ce-27bf-4bb6-a689-f95c6abdf0e7&WT.mc_id=DT-MVP-5001664)
 
 ## 💰 𝐀𝐳𝐮𝐫𝐞 𝐟𝐫𝐞𝐞 𝐚𝐜𝐜𝐨𝐮𝐧𝐭
 

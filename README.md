@@ -33,6 +33,8 @@ Hey friends, if you're working with Azure or just starting to learn about it, yo
 
 📌 [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/?WT.mc_id=DT-MVP-5001664)
 
+📌 [Zero Trust for the Microsoft identity platform developer](https://azure.microsoft.com/en-us/resources/zero-trust-for-the-microsoft-identity-platform-developer/?WT.mc_id=DT-MVP-5001664)
+
 
 ## 🏅𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
 

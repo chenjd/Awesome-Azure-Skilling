@@ -42,6 +42,8 @@ Hey friends, if you're working with Azure or just starting to learn about it, yo
 
 📌 [Microsoft Security, Compliance, and Identity training and certifications](https://lnkd.in/g4sMw4KC)
 
+📌 [Microsoft Security, Compliance, and Identity Training Journey](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWGDeL)
+
 📌 [Microsoft 365 training and certifications](https://lnkd.in/gG8r399U)
 
 📌 [Microsoft Dynamics 365 training and certifications](https://lnkd.in/gpJ6waPe)

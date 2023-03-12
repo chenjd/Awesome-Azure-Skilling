@@ -64,33 +64,33 @@ Hey friends, if you're working with Azure or just starting to learn about it, yo
 ## 🥷 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐍𝐢𝐧𝐣𝐚 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
 
 📌 𝐀𝐳𝐮𝐫𝐞 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲
-- 🥷 Azure Network Security Ninja Training: https://lnkd.in/dXKE9hED
+- 🥷 [Azure Network Security Ninja Training](https://lnkd.in/dXKE9hED)
 
 📌 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫 𝐟𝐨𝐫 𝐂𝐥𝐨𝐮𝐝
-- 🥷 Become a Microsoft Defender for Cloud Ninja: https://lnkd.in/dz97jS-2
+- 🥷 [Become a Microsoft Defender for Cloud Ninja](https://lnkd.in/dz97jS-2)
 
 📌 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫
-- 🥷 Become a Microsoft 365 Defender Ninja: https://lnkd.in/dNqDxaG8
-- 🥷 Microsoft 365 Defender Virtual Ninja Training: https://lnkd.in/djRrJ_ac
-- 🥷 Microsoft 365 Defender Ninja August 2021 special edition! https://lnkd.in/d-XXjt6E
-- 🥷 Microsoft Defender for Cloud Apps Ninja Training: June 2022 Update: https://lnkd.in/dkfRfEKa
-- 🥷 Microsoft Defender for Identity Ninja Training: https://lnkd.in/dKJmvP6b
-- 🥷 Become a Microsoft Defender for Endpoint Ninja: https://lnkd.in/d_f3jd3K
-- 🥷 Become a Microsoft Defender for Office 365 Ninja! | June 2022: https://lnkd.in/d7KJPJ85
-- 🥷 Microsoft Defender for IoT Ninja Training: https://lnkd.in/dqaQCYa5
+- 🥷 [Become a Microsoft 365 Defender Ninja](https://lnkd.in/dNqDxaG8)
+- 🥷 [Microsoft 365 Defender Virtual Ninja Training](https://lnkd.in/djRrJ_ac)
+- 🥷 [Microsoft 365 Defender Ninja August 2021 special edition!](https://lnkd.in/d-XXjt6E)
+- 🥷 [Microsoft Defender for Cloud Apps Ninja Training: June 2022 Update](https://lnkd.in/dkfRfEKa)
+- 🥷 [Microsoft Defender for Identity Ninja Training](https://lnkd.in/dKJmvP6b)
+- 🥷 [Become a Microsoft Defender for Endpoint Ninja](https://lnkd.in/d_f3jd3K)
+- 🥷 [Become a Microsoft Defender for Office 365 Ninja! | June 2022](https://lnkd.in/d7KJPJ85)
+- 🥷 [Microsoft Defender for IoT Ninja Training](https://lnkd.in/dqaQCYa5)
 
 📌 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐒𝐞𝐧𝐭𝐢𝐧𝐞𝐥
-- 🥷 Become a Microsoft Sentinel Ninja: The complete level 400 training https://lnkd.in/g4XckSui
-- 🥷 Becoming a Microsoft Sentinel Notebooks Ninja - The Series! https://lnkd.in/dG9KbAwW
-- 🥷 Become a Microsoft Sentinel Automation Ninja! https://lnkd.in/dbQx55CB
-- 🥷 Earn your Microsoft Sentinel Black Belt Digital Badge! https://lnkd.in/dtgN7Jue
-- 🥷 MustLearnKQL https://lnkd.in/du7u4MKy
+- 🥷 [Become a Microsoft Sentinel Ninja: The complete level 400 training](https://lnkd.in/g4XckSui)
+- 🥷 [Becoming a Microsoft Sentinel Notebooks Ninja - The Series!](https://lnkd.in/dG9KbAwW)
+- 🥷 [Become a Microsoft Sentinel Automation Ninja!](https://lnkd.in/dbQx55CB)
+- 🥷 [Earn your Microsoft Sentinel Black Belt Digital Badge!](https://lnkd.in/dtgN7Jue)
+- 🥷 [MustLearnKQL](https://lnkd.in/du7u4MKy)
 
 📌 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐮𝐫𝐯𝐢𝐞𝐰
-- 🥷 The Microsoft Purview Information Protection Ninja Training https://lnkd.in/dxAff9PZ
-- 🥷 The Microsoft Purview Data Loss Prevention Ninja Training https://lnkd.in/dRiSn8nk
-- 🥷 Become a Microsoft Purview eDiscovery Ninja: https://lnkd.in/deFVZ9mk
-- 🥷 Microsoft Purview Compliance Manager (MSPCM) Ninja Training: Q1 2023 https://lnkd.in/d6GMW2sy
+- 🥷 [The Microsoft Purview Information Protection Ninja Training](https://lnkd.in/dxAff9PZ)
+- 🥷 [The Microsoft Purview Data Loss Prevention Ninja Training](https://lnkd.in/dRiSn8nk)
+- 🥷 [Become a Microsoft Purview eDiscovery Ninja](https://lnkd.in/deFVZ9mk)
+- 🥷 [Microsoft Purview Compliance Manager (MSPCM) Ninja Training: Q1 2023](https://lnkd.in/d6GMW2sy)
 
 ## 💰 𝐀𝐳𝐮𝐫𝐞 𝐟𝐫𝐞𝐞 𝐚𝐜𝐜𝐨𝐮𝐧𝐭
 

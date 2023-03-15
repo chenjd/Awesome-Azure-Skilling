@@ -61,6 +61,15 @@ Hey friends, if you're working with Azure or just starting to learn about it, yo
 
 📌 [Azure Friday](https://learn.microsoft.com/en-au/shows/azure-friday/?WT.mc_id=DT-MVP-5001664)
 
+📌 [The AI Show](https://learn.microsoft.com/en-us/shows/ai-show/?WT.mc_id=DT-MVP-5001664)
+
+📌 [AI - Build a chatbot](https://learn.microsoft.com/en-us/shows/azure-videos/build-a-chatbot?WT.mc_id=DT-MVP-5001664)
+
+📌 [AI - Create an Intelligent Call Center](https://learn.microsoft.com/en-us/shows/azure-videos/create-an-intelligent-call-center?WT.mc_id=DT-MVP-5001664)
+
+📌 [AI - Use AI to Automate Document Processing](https://learn.microsoft.com/en-us/shows/azure-videos/use-ai-to-automate-document-processing?WT.mc_id=DT-MVP-5001664)
+
+
 ## 🥷 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐍𝐢𝐧𝐣𝐚 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
 
 📌 𝐀𝐳𝐮𝐫𝐞 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲
